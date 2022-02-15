@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mono {
+    font-family: "roboto mono";
+}
+
+body {
+    font-family: "Roboto";
+    color: #fff;
+    background-color: #232426;
+    background-image: url("../img/asfalt-light.png");
+}
